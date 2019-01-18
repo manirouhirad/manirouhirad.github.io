@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+My research interests can be broken down into four main categories: *Resource Management Policies*, *Interactions Between Biophysical and Economic System*, *Natural Capital*, *Economic Behavior Under Common Pool Resource Systems*. Of course, there is a great deal of overlap across these main categories. Nevertheless, it helps to define my research interests in broader categories. 
+
+I use theoretical, empirical and numerical approaches to study these topics. Although, I have to admit that with the availability of "cool" datasets I increasingly spend time on reduced form econometric analysis. Being an engineer by training, I do a lot of interdisciplinary work. Specifically, I collaborate a lot with civil engineers and hydrologists.  
+
+
+
+## Resource Management Policies
+
+I am very much interested in the policy side of economics. In my research I seek to estimate the economic impacts of resource depletion and environmental externalities, to design cost-effective policies that help reduce externalities, and to analyze the effectiveness of existing policies. For example, in a paper that is ready for submission, my colleagues and I studied the effectiveness of a groundwater market in reallocating groundwater extraction to reduce the externalities it imposes on the nearby streams. 
+
+***
+
+## Interactions Between Biophysical and Economic System
+
+I am a civil engineer by training and my first exposure to water resources was through the lens of engineering and physics. I am still interested in physical aspects of water. As an economist, I try to understand the biophysical factors that are of importance to decision making of producers and consumers. For example, in a paper that is currently under revise and resubmit, we study the importance of limited extraction capacity to extract groundwater from an aquifer on the irrigation decision-making of agricultural producers. 
+
+Currently, I am a postdoc and part of the [OgallaCap](http://ogallalawater.org/) Project. This project allows me to work with many people across the disciplines including hydrology and agronomy.
+
+***
+
+## Natural Capital
+I became interested in this topic, i.e. studying natural resources as capital, during my postdoc appointment at Yale. Natural resources are a form of capital and should be viewed as such. This view has important implications for our understanding of resource depletion and for our investments in other forms of capital. For example in a paper that is ready for submission, my colleagues and I studied the complementarity or Substitutability of produced capital and natural capital. 
+
+***
+
+## Common Pool Resources 
+This is an old topic and there is a large body of literature showing the existence and nature of externalities in common pool resources which can result in overexploitation of such resource, e.g. due to lack of well-defined property rights. Access to new forms of datasets has made it possible to test some of these hypotheses.
+
+
+

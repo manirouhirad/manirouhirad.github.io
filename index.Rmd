@@ -1,0 +1,22 @@
+---
+title: "Welcome To My Website"
+---
+
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+<img src="pic_1.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+<style>
+body {
+text-align: justify}
+</style>
+
+I am an environmental and resource economist mainly interested in economics of water resources.  
+I am currently a postdoctoral fellow in [Agricultural and Resource Economics at Colorado State University.](https://dare.agsci.colostate.edu/)  
+Formerly, I was a postdoctoral associate at [Yale School of Forestry and Environmental Studies](http://environment.yale.edu/).  
+I earned my PhD in 2017 from [University of Illinois (UIUC) Agricultural and Consumer Economics](https://ace.illinois.edu/). 
+
+You can see my research interests and activity [here](research.html). You can also see a list of my publications, working papers and work in progress [here](publication.html). 
+
+I enjoy using [RStudio](https://www.rstudio.com/) for my econometric analysis, writing papers, creating presentations and even creating my own website! Yes, this website was created by [R Markdown](https://rmarkdown.rstudio.com/). 
