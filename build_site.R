@@ -3,6 +3,6 @@
 #not our site because of other projects we were 
 #working on at the time. 
 setwd("/Users/Mani/Dropbox/Website/manirouhirad.github.io/")
-# lskdfjlskdjf asdasdwef
+# ls qweljlqkwje
 #render your sweet site.
 rmarkdown::render_site()
