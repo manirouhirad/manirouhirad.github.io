@@ -11,18 +11,8 @@ navbar:
     - text: "Publications"
       icon: fa-newspaper-o
       href: publication.html
-  right:
-    - text: "Contact me"
-      icon: glyphicon-send
-      href: mailto:mani.rouhi_rad@colostate.edu
-    - icon: fa-github fa-lg
-      href: https://github.com/manirouhirad
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/mani_rouhi_rad
-    - icon: fa-google
-      href: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5k55l3OjPzDoRCXHnMB_ubgPod8RsANpyfMu8kOJtzgCl4LYxl2dsLa2UdlFWypKDUX_huXa9xg1xToVG2A8b-0ZWLYLWp1egwKfdQ6H7DtF3_NzE&user=T30T3DEAAAAJ
 output:
   html_document:
     theme: paper
     highlight: textmate
-    css: style.css
+    css: style.cs
