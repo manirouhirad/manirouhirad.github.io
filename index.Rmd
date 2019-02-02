@@ -1,5 +1,9 @@
 ---
 title: "Welcome To My Website"
+output: 
+  html_document:
+    includes:
+       in_header: analytics_tracking.html
 ---
 
 
