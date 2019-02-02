@@ -25,4 +25,4 @@ output:
   html_document:
     theme: paper
     highlight: textmate
-    css: style.cs
+    css: style.css
