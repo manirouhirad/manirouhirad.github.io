@@ -1,6 +1,11 @@
 ---
 title: "Welcome To My Website"
+output: 
+  html_document:
+    includes:
+       in_header: analytics_tracking.html
 ---
+
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
