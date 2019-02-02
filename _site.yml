@@ -26,3 +26,5 @@ output:
     theme: paper
     highlight: textmate
     css: style.css
+    includes:
+       in_header: analytics_tracking.html
