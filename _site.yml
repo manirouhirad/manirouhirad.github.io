@@ -23,6 +23,8 @@ navbar:
       href: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5k55l3OjPzDoRCXHnMB_ubgPod8RsANpyfMu8kOJtzgCl4LYxl2dsLa2UdlFWypKDUX_huXa9xg1xToVG2A8b-0ZWLYLWp1egwKfdQ6H7DtF3_NzE&user=T30T3DEAAAAJ
 output:
   html_document:
+    includes:
+       in_header: analytics_tracking.html
     theme: paper
     highlight: textmate
     css: style.css
