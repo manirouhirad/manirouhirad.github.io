@@ -10,11 +10,11 @@ text-align: justify}
 
 ## Published Papers  
 
-Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing ecological infrastructure investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) Proceedings of the National Academy of Sciences (2019): 201802883.  
+Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) Proceedings of the National Academy of Sciences (2019): 201802883.  
 
-**Rouhi Rad, M. (2018).** Book review: ["the water problem: Climate change and water policy in the united states"](https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html). Water Economics and Policy, 04(03):1880002.
+**Rouhi Rad, M. (2018).** Book review: ["The Water Problem: Climate Change and Water Policy in the United States"](https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html). Water Economics and Policy, 04(03):1880002.
 
-Hurd, B., & **Rouhi Rad, M.,** 2011. [“Estimating economic effects of changes in climate and water availability”](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) Climatic Change, DOI:10.1007/s10584-012-0636-9.
+Hurd, B., & **Rouhi Rad, M.,** 2011. [“Estimating Economic Effects of Changes in Climate and Water Availability”](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) Climatic Change, DOI:10.1007/s10584-012-0636-9.
 
 ***
 
@@ -34,19 +34,19 @@ Patrick Lloyd-Smith, Wiktor (Vic) Adamowicz, Alicia Entem, Eli P. Fenichel, **Ma
 
 **Mani Rouhi Rad**, Nick Brozovic, Taro Mieno, "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets" *In Preparation for Submission*
 
-**Mani Rouhi Rad**, Dale Manning, Jordan Suter, Chris Goemans, "Spatial Spillovers from Conservation Policiesin Common Property Resources"
+**Mani Rouhi Rad**, Dale Manning, Jordan Suter, Chris Goemans, "Spatial Spillovers from Conservation Policies in Common Property Resources"
 
 **Mani Rouhi Rad**, Nick Brozovic, Tim Foster, Taro Mieno, "Buffer Value of Aquifer" 
 
-Dale Manning, **Mani Rouhi Rad**, Jordan Suter, Chris Goemans, Conservation Policies and the Value of Natural Capital: The Case of Groundwater
+Dale Manning, **Mani Rouhi Rad**, Jordan Suter, Chris Goemans, "Conservation Policies and the Value of Natural Capital: The Case of Groundwater"
 
-Taro Mieno, **Mani Rouhi Rad**, Nick Brozovic, Jordan Suter "A Geim Result About The Effectiveness of Water Pricing As a Water Conservation Tool"
+Taro Mieno, **Mani Rouhi Rad**, Nick Brozovic, Jordan Suter "A Grim Result About The Effectiveness of Water Pricing As a Water Conservation Tool"
 
 ***
 
 ## Work in Progress
 
-"The Impact of Groundwater on Economic Outcomes inthe Ogallala Region" with  Jordan Suter, Dale Manning, Chris Goemans, Lacey Moore
+"The Impact of Groundwater on Economic Outcomes in the Ogallala Region" with  Jordan Suter, Dale Manning, Chris Goemans, Lacey Moore
 
 "Value of Groundwater in the High Plains Aquifer" with  Chris Goemans, Jordan Suter, Dale Manning
 
