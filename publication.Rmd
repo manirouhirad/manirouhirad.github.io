@@ -43,7 +43,7 @@ Suter, J.F., **Mani Rouhi Rad**, Manning, D.T., Geomans, C., Moore, L. "A satura
 
 **Mani Rouhi Rad**, Nick Brozovic, Tim Foster, Taro Mieno, "Loss of buffer value due to aquifer depletion: the case of the High Plains Aquifer" 
 
-Taro Mieno, **Mani Rouhi Rad**, Nick Brozovic, Jordan Suter "The cost of exclusively focusing on costs: Misspecification errors in estimating groundwater demand elasticity"
+Taro Mieno, **Mani Rouhi Rad**, Jordan Suter, Aaron Hrozencik "The cost of exclusively focusing on costs: Misspecification errors in estimating groundwater demand elasticity"
 
 Sloggy, M., Suter, J.F., **Rouhi Rad, Mani** , Manning, D.T., Geomans, C. “Do natural disasters impact public opinion on climate change?”
 
