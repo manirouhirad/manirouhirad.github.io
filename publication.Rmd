@@ -10,7 +10,7 @@ text-align: justify}
 
 ## Published Papers  
 
-**Mani Rouhi Rad**, Nick Brozovic, Tim Foster, Taro Mieno, "Effects of Instantaneous Groundwater Availability on Irrigated Agriculture and Implications for Aquifer Management" *Accepted*
+**Mani Rouhi Rad**, Nick Brozovic, Tim Foster, Taro Mieno, "Effects of Instantaneous Groundwater Availability on Irrigated Agriculture and Implications for Aquifer Management" *Accepted Resource and Energy Economics*
 
 Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) Proceedings of the National Academy of Sciences (2019): 201802883.  
 
