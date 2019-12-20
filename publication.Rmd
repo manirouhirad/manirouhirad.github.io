@@ -10,7 +10,9 @@ text-align: justify}
 
 ## Published Papers  
 
-**Mani Rouhi Rad**, Nick Brozovic, Tim Foster, Taro Mieno, "Effects of Instantaneous Groundwater Availability on Irrigated Agriculture and Implications for Aquifer Management" *Accepted Resource and Energy Economics*
+Jordan Suter, **Mani Rouhi Rad**, Dale Manning, Chris Goemans, "Groundwater Depletion, Climate, and the Value of Groundwater Conservation" *Forthcoming REE*
+
+**Mani Rouhi Rad**, Nicholas Brozović, Timothy Foster, and Taro Mieno. ["Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management."](https://www.sciencedirect.com/science/article/pii/S0928765518303816) Resource and Energy Economics (2020): 101129.
 
 Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) Proceedings of the National Academy of Sciences (2019): 201802883.  
 
@@ -24,19 +26,19 @@ Hurd, B., & **Rouhi Rad, M.,** 2011. [“Estimating Economic Effects of Changes 
 
 **Mani Rouhi Rad**, Wiktor (Vic) Adamowicz, Alicia Entem, Eli P.Fenichel, Patrick Lloyd-Smith "Complementarity (Not Substitution) Between Natural and Produced Capital" *Revisions requested JAERE*
 
-Jordan Suter, **Mani Rouhi Rad**, Dale Manning, Chris Goemans, "Groundwater Depletion, Climate, and the Value of Groundwater Conservation" *Revisions requested REE*
+**Mani Rouhi Rad**, Dale Manning, Jordan Suter, Chris Goemans, "Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources" *Revisions requested JAERE*
 
 Patrick Lloyd-Smith, Wiktor (Vic) Adamowicz, Alicia Entem, Eli Fenichel, **Mani Rouhi Rad** "The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions" *Revisions requested JEBO*
 
 Dale Manning, **Mani Rouhi Rad**, Jordan Suter, Chris Goemans, "Non-market valuation in integrated modeling: The benefits of water right retirement" *Revisions requested JEEM*
 
-**Mani Rouhi Rad**, Dale Manning, Jordan Suter, Chris Goemans, "Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources" *Under Review*
-
 **Mani Rouhi Rad**, Taro Mieno, Nick Brozovic, "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets" *Under Review*
 
-**Mani Rouhi Rad**, Erin Haacker, Vaishali Sharda, "MOD\$\$AT: A Hydro-economic Model for Aquifer Management in Agriculture" *Under Review*
+**Mani Rouhi Rad**, Erin M.K. Haacker, Vaishali Sharda, Soheil Nozari, Zaichen Xiang, A. Araya, Venkatesh Uddameri, Jordan Suter, Prasanna Gowda, "MOD\$\$AT: A Hydro-economic Model for Aquifer Management in Agriculture" *Under Review*
 
-Taro Mieno, **Mani Rouhi Rad**, Jordan Suter, Aaron Hrozencik "The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification" *Under Review*
+**Mani Rouhi Rad**, A. Araya, Zachary Zambreski, "Downside Risk of Aquifer Depletion" *Under Review*
+
+Taro Mieno, **Mani Rouhi Rad**, Jordan Suter, Aaron Hrozencik "The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification"
 
 
 ***
