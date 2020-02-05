@@ -8,27 +8,27 @@ text-align: justify}
 </style>
 
 
-## Published Papers  
+## Published/Accepted Papers  
 
-Jordan Suter, **Mani Rouhi Rad**, Dale Manning, Chris Goemans, "Groundwater Depletion, Climate, and the Value of Groundwater Conservation" *Forthcoming REE*
+Jordan Suter, **Mani Rouhi Rad**, Dale Manning, Chris Goemans, ["Groundwater depletion, climate, and the value of groundwater conservation"](https://www.sciencedirect.com/science/article/abs/pii/S0928765518303403) *Forthcoming Resource and Energy Economics*
 
-**Mani Rouhi Rad**, Nicholas Brozović, Timothy Foster, and Taro Mieno. ["Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management."](https://www.sciencedirect.com/science/article/pii/S0928765518303816) Resource and Energy Economics (2020): 101129.
+**Mani Rouhi Rad**, Nicholas Brozović, Timothy Foster, and Taro Mieno. ["Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management."](https://www.sciencedirect.com/science/article/pii/S0928765518303816) *Resource and Energy Economics* (2020): 101129.
 
-Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) Proceedings of the National Academy of Sciences (2019): 201802883.  
+Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) *Proceedings of the National Academy of Sciences* (2019): 201802883.  
 
-**Rouhi Rad, M. (2018).** Book review: ["The Water Problem: Climate Change and Water Policy in the United States"](https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html). Water Economics and Policy, 04(03):1880002.
+**Rouhi Rad, M. (2018).** Book review: ["The Water Problem: Climate Change and Water Policy in the United States"](https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html). *Water Economics and Policy*, 04(03):1880002.
 
-Hurd, B., & **Rouhi Rad, M.,** 2011. [“Estimating Economic Effects of Changes in Climate and Water Availability”](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) Climatic Change, DOI:10.1007/s10584-012-0636-9.
+Hurd, B., & **Rouhi Rad, M.,** 2011. [“Estimating Economic Effects of Changes in Climate and Water Availability”](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) *Climatic Change*, DOI:10.1007/s10584-012-0636-9.
 
 ***
 
 ## Under Review/Revise and Resubmit
 
+Patrick Lloyd-Smith, Wiktor (Vic) Adamowicz, Alicia Entem, Eli Fenichel, **Mani Rouhi Rad** "The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions" *Revised and Resubmitted JEBO*
+
 **Mani Rouhi Rad**, Wiktor (Vic) Adamowicz, Alicia Entem, Eli P.Fenichel, Patrick Lloyd-Smith "Complementarity (Not Substitution) Between Natural and Produced Capital" *Revisions requested JAERE*
 
 **Mani Rouhi Rad**, Dale Manning, Jordan Suter, Chris Goemans, "Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources" *Revisions requested JAERE*
-
-Patrick Lloyd-Smith, Wiktor (Vic) Adamowicz, Alicia Entem, Eli Fenichel, **Mani Rouhi Rad** "The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions" *Revisions requested JEBO*
 
 Dale Manning, **Mani Rouhi Rad**, Jordan Suter, Chris Goemans, "Non-market valuation in integrated modeling: The benefits of water right retirement" *Revisions requested JEEM*
 

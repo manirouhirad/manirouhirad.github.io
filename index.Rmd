@@ -12,8 +12,9 @@ body {
 text-align: justify}
 </style>
 
+I am an assistant professor in the department of [Agricultural Scienecs](https://www.clemson.edu/cafls/departments/agricultural-sciences/) at Clemson University. 
 I am an environmental and resource economist mainly interested in economics of water resources.  
-I am currently a postdoctoral fellow in [Agricultural and Resource Economics at Colorado State University.](https://dare.agsci.colostate.edu/)  
+Preior to joining Clemson, I was a postdoctoral fellow in [Agricultural and Resource Economics at Colorado State University.](https://dare.agsci.colostate.edu/)  
 Formerly, I was a postdoctoral associate at [Yale School of Forestry and Environmental Studies](http://environment.yale.edu/).  
 I earned my PhD in 2017 from [University of Illinois (UIUC) Agricultural and Consumer Economics](https://ace.illinois.edu/). 
 
