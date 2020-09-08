@@ -6,4 +6,3 @@ setwd("/Users/Mani/Dropbox/Website/manirouhirad.github.io/")
 # ls
 #render your sweet site.
 rmarkdown::render_site()
-
