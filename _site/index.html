@@ -13,6 +13,7 @@
 
 <title>Welcome To My Website</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -33,6 +34,15 @@
 
   gtag('config', 'UA-133695958-1');
 </script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -78,6 +88,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -285,21 +296,21 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-gear"></span>
+    <span class="fas fa-gear"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="publication.html">
-    <span class="fa fa-newspaper-o"></span>
+    <span class="fas fa-newspaper-o"></span>
      
     Publications
   </a>
@@ -307,7 +318,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:mani.rouhi_rad@colostate.edu">
+  <a href="mailto:rrad@clemson.edu">
     <span class="glyphicon glyphicon-send"></span>
      
     Contact me
@@ -315,19 +326,19 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="https://github.com/manirouhirad">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/mani_rouhi_rad">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F5k55l3OjPzDoRCXHnMB_ubgPod8RsANpyfMu8kOJtzgCl4LYxl2dsLa2UdlFWypKDUX_huXa9xg1xToVG2A8b-0ZWLYLWp1egwKfdQ6H7DtF3_NzE&amp;user=T30T3DEAAAAJ">
-    <span class="fa fa-google"></span>
+    <span class="fas fa-google"></span>
      
   </a>
 </li>
@@ -366,7 +377,7 @@ I earned my PhD in 2017 from <a href="https://ace.illinois.edu/">University of I
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

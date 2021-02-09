@@ -14,7 +14,7 @@ navbar:
   right:
     - text: "Contact me"
       icon: glyphicon-send
-      href: mailto:mani.rouhi_rad@colostate.edu
+      href: mailto:rrad@clemson.edu
     - icon: fa-github fa-lg
       href: https://github.com/manirouhirad
     - icon: fa-twitter fa-lg
