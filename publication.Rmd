@@ -10,54 +10,51 @@ text-align: justify}
 
 ## Published/Accepted Papers  
 
-**Mani Rouhi Rad**, Wiktor (Vic) Adamowicz, Alicia Entem, Eli P.Fenichel, Patrick Lloyd-Smith "Complementarity (Not Substitution) Between Natural and Produced Capital" *Conditionally accepted at Journal of the Association of Environmental and Resource Economists*
+Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., "The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification." *Forthcoming at Land Economics*.
 
-**Mani Rouhi Rad**, Dale Manning, Jordan Suter, Chris Goemans, "Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources" *Conditionally accepted at Journal of the Association of Environmental and Resource Economists*
+**Rouhi Rad, M.,**, Adamowicz, W., Entem, A., Fenichel, E.P., Lloyd-Smith, P., ["Complementarity (Not Substitution) Between Natural and Produced Capital."](https://www.journals.uchicago.edu/doi/10.1086/714675) *Journal of the Association of Environmental and Resource Economists* (2021).
 
-Taro Mieno, **Mani Rouhi Rad**, Jordan Suter, Aaron Hrozencik "The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification" *Accepted at Land Economics*
+**Rouhi Rad, M.,**, Manning, D.T., Suter, J.F., Goemans, C., ["Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources."](https://www.journals.uchicago.edu/doi/10.1086/714148) *Journal of the Association of Environmental and Resource Economists* (2021).
 
-Jordan Suter, **Mani Rouhi Rad**, Dale Manning, Chris Goemans, ["Groundwater depletion, climate, and the value of groundwater conservation"](https://www.sciencedirect.com/science/article/abs/pii/S0928765518303403) *Resource and Energy Economics* (2021).
+Li, L., Long, D., **Rouhi Rad, M.**, Sloggy, M., ["Stay-at-home orders and the willingness to stay home during the COVID-19 pandemic: A stated-preference discrete choice experiment."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253910) *PLOS ONE* (2021).
 
-Patrick Lloyd-Smith, Wiktor (Vic) Adamowicz, Alicia Entem, Eli Fenichel, **Mani Rouhi Rad** ["The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions"](https://www.sciencedirect.com/science/article/abs/pii/S0167268120304686) *Journal of Economic Behavior and Organization* (2021).
+Suter, J.F., **Rouhi Rad, M.**, Manning, D.T, Goemans, C., ["Groundwater depletion, climate, and the value of groundwater conservation."](https://www.sciencedirect.com/science/article/abs/pii/S0928765518303403) *Resource and Energy Economics* (2021).
 
-Dale Manning, **Mani Rouhi Rad**, Jordan Suter, Chris Goemans, ["Non-market valuation in integrated modeling: The benefits of water right retirement"](https://www.sciencedirect.com/science/article/pii/S0095069620300644) *Journal of Environmental Economics and Management* (2020): 102341.
+Lloyd-Smith, P., Adamowicz, W., Entem, A., Fenichel, E.P., **Rouhi Rad, M.**, ["The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions."](https://www.sciencedirect.com/science/article/abs/pii/S0167268120304686) *Journal of Economic Behavior and Organization* (2021).
 
-**Mani Rouhi Rad**, A. Araya, Zachary Zambreski, ["Downside Risk of Aquifer Depletion"](https://link.springer.com/article/10.1007/s00271-020-00688-x) *Irrigation Science* (2020).
+Manning, D.T., **Rouhi Rad, M.**, Suter, J.F., Goemans, C., ["Non-market valuation in integrated modeling: The benefits of water right retirement."](https://www.sciencedirect.com/science/article/pii/S0095069620300644) *Journal of Environmental Economics and Management* (2020).
 
-**Mani Rouhi Rad**, Erin M.K. Haacker, Vaishali Sharda, Soheil Nozari, Zaichen Xiang, A. Araya, Venkatesh Uddameri, Jordan Suter, Prasanna Gowda, ["MOD\$\$AT: A hydro-economic model for aquifer management in agriculture"](https://www.sciencedirect.com/science/article/abs/pii/S0378377419317032) *Agricultural Water Management* 238 (2020): 106194.
+**Rouhi Rad, M.**, Araya, A., Zambreski, A., ["Downside Risk of Aquifer Depletion."](https://link.springer.com/article/10.1007/s00271-020-00688-x) *Irrigation Science* (2020).
 
-**Mani Rouhi Rad**, Nicholas Brozović, Timothy Foster, and Taro Mieno. ["Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management."](https://www.sciencedirect.com/science/article/pii/S0928765518303816) *Resource and Energy Economics* (2020): 101129.
+**Rouhi Rad, M.**, Haacker, E.M.K., Sharda, V., Nozari, S., Xiang, Z., Araya, A., Uddameri, V., Suter, J.F., Gowda, P., ["MOD\$\$AT: A hydro-economic model for aquifer management in agriculture"](https://www.sciencedirect.com/science/article/abs/pii/S0378377419317032) *Agricultural Water Management* (2020).
 
-Adamowicz, Wiktor, Laura Calderon-Etter, Alicia Entem, Eli P. Fenichel, Jefferson S. Hall, Patrick Lloyd-Smith, Fred L. Ogden, Jason A. Regina, **Mani Rouhi Rad**, and Robert F. Stallard. ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) *Proceedings of the National Academy of Sciences* (2019): 201802883.  
+**Rouhi Rad, M.**, Brozović, N., Foster, T., and Mieno, T., ["Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management."](https://www.sciencedirect.com/science/article/pii/S0928765518303816) *Resource and Energy Economics* (2020).
 
-**Rouhi Rad, M. (2018).** Book review: ["The Water Problem: Climate Change and Water Policy in the United States"](https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html). *Water Economics and Policy*, 04(03):1880002.
+Adamowicz, W., Calderon-Etter, L., Entem, L., Fenichel, E.P, Hall, J.S., Lloyd-Smith, P., Ogden, F.L., Regina, J.A., **Rouhi Rad, M.**, and Stallard, R.F., ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) *Proceedings of the National Academy of Sciences* (2019).  
 
-Hurd, B., & **Rouhi Rad, M.,** 2011. [“Estimating Economic Effects of Changes in Climate and Water Availability”](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) *Climatic Change*, DOI:10.1007/s10584-012-0636-9.
+**Rouhi Rad, M.**, Book review: ["The Water Problem: Climate Change and Water Policy in the United States."](https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html). *Water Economics and Policy*, (2018).
+
+Hurd, B., & **Rouhi Rad, M.**, [“Estimating Economic Effects of Changes in Climate and Water Availability.”](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) *Climatic Change* (2011).
 
 ***
 
 ## Under Review/Revise and Resubmit
 
+**Rouhi Rad, M.**, Mieno, T., Brozović, N., "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets." *Revisions requested*
+
+Sloggy, M., Suter, J.F., **Rouhi Rad, M.** , Manning, D.T., Geomans, C. "Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change." *Revisions requested*
 
 ***
 
 ## Working Papers/ Work in Progress:
 
-Sloggy, M., Suter, J.F., **Rouhi Rad, Mani** , Manning, D.T., Geomans, C. “Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change”
+**Rouhi Rad, M.**, Suter, J.F., Manning, D.T., Geomans, C. "Subsidies vs. subsidies in the conservation of common property groundwater resources."
 
-**Mani Rouhi Rad**, Taro Mieno, Nick Brozovic, "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets"
-
-**Mani Rouhi Rad**, Suter, J.F., Manning, D.T., Geomans, C. Subsidies vs. subsidies in the conservation of common property resources
-
-Suter, J.F., **Mani Rouhi Rad**, Manning, D.T., Geomans, C., Moore, L. "A saturated market: The economic impact of groundwater in the Ogallala Region." 
 
 ***
 
-## Work in Progress
+<!-- ## Work in Progress -->
 
-"Value of Groundwater in the High Plains Aquifer" with  Chris Goemans, Jordan Suter, Dale Manning
-
-"Benefits and Costs of Permit Banking: Does Ecological Production Function Matter?" with  Karina Schoengold
 
 
 
