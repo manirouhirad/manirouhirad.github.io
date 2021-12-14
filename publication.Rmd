@@ -10,7 +10,10 @@ text-align: justify}
 
 ## Published/Accepted Papers  
 
-Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., "The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification." *Forthcoming at Land Economics*.
+Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., ["The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification."](http://le.uwpress.org/content/97/3/672.abstract) *Land Economics*.
+
+Sloggy, M., Suter, J.F., **Rouhi Rad, M.** , Manning, D.T., Geomans, C. ["Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change."](https://link.springer.com/article/10.1007/s10584-021-03242-6) *Climatic Change*
+
 
 **Rouhi Rad, M.,**, Adamowicz, W., Entem, A., Fenichel, E.P., Lloyd-Smith, P., ["Complementarity (Not Substitution) Between Natural and Produced Capital."](https://www.journals.uchicago.edu/doi/10.1086/714675) *Journal of the Association of Environmental and Resource Economists* (2021).
 
@@ -40,15 +43,16 @@ Hurd, B., & **Rouhi Rad, M.**, [“Estimating Economic Effects of Changes in Cli
 
 ## Under Review/Revise and Resubmit
 
-**Rouhi Rad, M.**, Mieno, T., Brozović, N., "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets." *Revisions requested*
+**Rouhi Rad, M.**, Mieno, T., Brozović, N., "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets." *Revised and Resubmitted*
 
-Sloggy, M., Suter, J.F., **Rouhi Rad, M.** , Manning, D.T., Geomans, C. "Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change." *Revisions requested*
 
 ***
 
 ## Working Papers/ Work in Progress:
 
-**Rouhi Rad, M.**, Suter, J.F., Manning, D.T., Geomans, C. "Subsidies vs. subsidies in the conservation of common property groundwater resources."
+**Rouhi Rad, M.**, Suter, J.F., Manning, D.T., Geomans, C. "Abatement subsidies for groundwater conservation."
+
+Manning, D.T., **Rouhi Rad, M.**, Ogle, S. "The Private Value of Soil Carbon to Farmers and Implications for Climate Change Policy."
 
 
 ***
