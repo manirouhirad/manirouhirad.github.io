@@ -5,7 +5,7 @@ title: "Welcome To My Website"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="pic_1.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="AGU_3233.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 <style>
 body {
