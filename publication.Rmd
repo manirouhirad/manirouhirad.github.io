@@ -10,7 +10,7 @@ text-align: justify}
 
 ## Published/Accepted Papers  
 
-Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., ["The Cost of Exclusively Focusing on Costs and the Importance of Well Yield in Groundwater Demand Specification."](http://le.uwpress.org/content/97/3/672.abstract) *Land Economics*.
+Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., ["The Importance of Well Yield in Groundwater Demand Specifications."](http://le.uwpress.org/content/97/3/672.abstract) *Land Economics*.
 
 Sloggy, M., Suter, J.F., **Rouhi Rad, M.** , Manning, D.T., Geomans, C. ["Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change."](https://link.springer.com/article/10.1007/s10584-021-03242-6) *Climatic Change*
 
