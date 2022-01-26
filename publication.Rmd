@@ -10,9 +10,12 @@ text-align: justify}
 
 ## Published/Accepted Papers  
 
-Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., ["The Importance of Well Yield in Groundwater Demand Specifications."](http://le.uwpress.org/content/97/3/672.abstract) *Land Economics*.
+**Rouhi Rad, M.**, Mieno, T., Brozović, N., "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets." *accepted at Environmental and Resource Economics*.
 
-Sloggy, M., Suter, J.F., **Rouhi Rad, M.** , Manning, D.T., Geomans, C. ["Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change."](https://link.springer.com/article/10.1007/s10584-021-03242-6) *Climatic Change*
+
+Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., ["The Importance of Well Yield in Groundwater Demand Specifications."](http://le.uwpress.org/content/97/3/672.abstract) *Land Economics* (2021).
+
+Sloggy, M., Suter, J.F., **Rouhi Rad, M.** , Manning, D.T., Geomans, C. ["Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change."](https://link.springer.com/article/10.1007/s10584-021-03242-6) *Climatic Change* (2021).
 
 
 **Rouhi Rad, M.,**, Adamowicz, W., Entem, A., Fenichel, E.P., Lloyd-Smith, P., ["Complementarity (Not Substitution) Between Natural and Produced Capital."](https://www.journals.uchicago.edu/doi/10.1086/714675) *Journal of the Association of Environmental and Resource Economists* (2021).
@@ -42,8 +45,6 @@ Hurd, B., & **Rouhi Rad, M.**, [“Estimating Economic Effects of Changes in Cli
 ***
 
 ## Under Review/Revise and Resubmit
-
-**Rouhi Rad, M.**, Mieno, T., Brozović, N., "The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets." *Revised and Resubmitted*
 
 
 ***
