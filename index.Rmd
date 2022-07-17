@@ -12,7 +12,7 @@ body {
 text-align: justify}
 </style>
 
-I am an assistant professor in the Agricultural Economics Department at Texas A&M University. 
+I am an assistant professor in the Agricultural Economics Department at Texas A&M University.
 
 You can see my research interests and activity [here](research.html). You can also see a list of my publications [here](publication.html). 
 
