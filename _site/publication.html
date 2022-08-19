@@ -13,7 +13,7 @@
 
 <title>publication.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -153,11 +153,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -281,7 +285,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:mani.rouhiradd@ag.tamu.edu">
+  <a href="mailto:mani.rouhirad@ag.tamu.edu">
     <span class="glyphicon glyphicon-send"></span>
      
     Contact me
@@ -324,21 +328,80 @@ text-align: justify}
 </style>
 <div id="publishedaccepted-papers" class="section level2">
 <h2>Published/Accepted Papers</h2>
-<p><strong>Rouhi Rad, M.</strong>, Mieno, T., Brozović, N., “The Role of Trading Ratios and Search Frictions in Tradeable Permit Markets.” <em>accepted at Environmental and Resource Economics</em>.</p>
-<p>Mieno, T., <strong>Rouhi Rad, M.</strong>, Suter, J.F., Hrozencik, A., <a href="http://le.uwpress.org/content/97/3/672.abstract">“The Importance of Well Yield in Groundwater Demand Specifications.”</a> <em>Land Economics</em> (2021).</p>
-<p>Sloggy, M., Suter, J.F., <strong>Rouhi Rad, M.</strong> , Manning, D.T., Geomans, C. <a href="https://link.springer.com/article/10.1007/s10584-021-03242-6">“Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change.”</a> <em>Climatic Change</em> (2021).</p>
-<p><strong>Rouhi Rad, M.,</strong>, Adamowicz, W., Entem, A., Fenichel, E.P., Lloyd-Smith, P., <a href="https://www.journals.uchicago.edu/doi/10.1086/714675">“Complementarity (Not Substitution) Between Natural and Produced Capital.”</a> <em>Journal of the Association of Environmental and Resource Economists</em> (2021).</p>
-<p><strong>Rouhi Rad, M.,</strong>, Manning, D.T., Suter, J.F., Goemans, C., <a href="https://www.journals.uchicago.edu/doi/10.1086/714148">“Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources.”</a> <em>Journal of the Association of Environmental and Resource Economists</em> (2021).</p>
-<p>Li, L., Long, D., <strong>Rouhi Rad, M.</strong>, Sloggy, M., <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253910">“Stay-at-home orders and the willingness to stay home during the COVID-19 pandemic: A stated-preference discrete choice experiment.”</a> <em>PLOS ONE</em> (2021).</p>
-<p>Suter, J.F., <strong>Rouhi Rad, M.</strong>, Manning, D.T, Goemans, C., <a href="https://www.sciencedirect.com/science/article/abs/pii/S0928765518303403">“Groundwater depletion, climate, and the value of groundwater conservation.”</a> <em>Resource and Energy Economics</em> (2021).</p>
-<p>Lloyd-Smith, P., Adamowicz, W., Entem, A., Fenichel, E.P., <strong>Rouhi Rad, M.</strong>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268120304686">“The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions.”</a> <em>Journal of Economic Behavior and Organization</em> (2021).</p>
-<p>Manning, D.T., <strong>Rouhi Rad, M.</strong>, Suter, J.F., Goemans, C., <a href="https://www.sciencedirect.com/science/article/pii/S0095069620300644">“Non-market valuation in integrated modeling: The benefits of water right retirement.”</a> <em>Journal of Environmental Economics and Management</em> (2020).</p>
-<p><strong>Rouhi Rad, M.</strong>, Araya, A., Zambreski, A., <a href="https://link.springer.com/article/10.1007/s00271-020-00688-x">“Downside Risk of Aquifer Depletion.”</a> <em>Irrigation Science</em> (2020).</p>
-<p><strong>Rouhi Rad, M.</strong>, Haacker, E.M.K., Sharda, V., Nozari, S., Xiang, Z., Araya, A., Uddameri, V., Suter, J.F., Gowda, P., <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419317032">“MOD$$AT: A hydro-economic model for aquifer management in agriculture”</a> <em>Agricultural Water Management</em> (2020).</p>
-<p><strong>Rouhi Rad, M.</strong>, Brozović, N., Foster, T., and Mieno, T., <a href="https://www.sciencedirect.com/science/article/pii/S0928765518303816">“Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management.”</a> <em>Resource and Energy Economics</em> (2020).</p>
-<p>Adamowicz, W., Calderon-Etter, L., Entem, L., Fenichel, E.P, Hall, J.S., Lloyd-Smith, P., Ogden, F.L., Regina, J.A., <strong>Rouhi Rad, M.</strong>, and Stallard, R.F., <a href="https://www.pnas.org/content/early/2019/01/04/1802883116">“Assessing Ecological Infrastructure Investments.”</a> <em>Proceedings of the National Academy of Sciences</em> (2019).</p>
-<p><strong>Rouhi Rad, M.</strong>, Book review: <a href="https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html">“The Water Problem: Climate Change and Water Policy in the United States.”</a>. <em>Water Economics and Policy</em>, (2018).</p>
-<p>Hurd, B., &amp; <strong>Rouhi Rad, M.</strong>, <a href="https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf">“Estimating Economic Effects of Changes in Climate and Water Availability.”</a> <em>Climatic Change</em> (2011).</p>
+<p><strong>Rouhi Rad, M.</strong>, Mieno, T., Brozović, N., “The Role of
+Trading Ratios and Search Frictions in Tradeable Permit Markets.”
+<em>accepted at Environmental and Resource Economics</em>.</p>
+<p>Mieno, T., <strong>Rouhi Rad, M.</strong>, Suter, J.F., Hrozencik,
+A., <a href="http://le.uwpress.org/content/97/3/672.abstract">“The
+Importance of Well Yield in Groundwater Demand Specifications.”</a>
+<em>Land Economics</em> (2021).</p>
+<p>Sloggy, M., Suter, J.F., <strong>Rouhi Rad, M.</strong> , Manning,
+D.T., Geomans, C. <a
+href="https://link.springer.com/article/10.1007/s10584-021-03242-6">“Changing
+climate, changing minds? The effects of natural disasters on public
+perceptions of climate change.”</a> <em>Climatic Change</em> (2021).</p>
+<p><strong>Rouhi Rad, M.,</strong>, Adamowicz, W., Entem, A., Fenichel,
+E.P., Lloyd-Smith, P., <a
+href="https://www.journals.uchicago.edu/doi/10.1086/714675">“Complementarity
+(Not Substitution) Between Natural and Produced Capital.”</a>
+<em>Journal of the Association of Environmental and Resource
+Economists</em> (2021).</p>
+<p><strong>Rouhi Rad, M.,</strong>, Manning, D.T., Suter, J.F., Goemans,
+C., <a
+href="https://www.journals.uchicago.edu/doi/10.1086/714148">“Policy
+Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies
+in Common Property Resources.”</a> <em>Journal of the Association of
+Environmental and Resource Economists</em> (2021).</p>
+<p>Li, L., Long, D., <strong>Rouhi Rad, M.</strong>, Sloggy, M., <a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253910">“Stay-at-home
+orders and the willingness to stay home during the COVID-19 pandemic: A
+stated-preference discrete choice experiment.”</a> <em>PLOS ONE</em>
+(2021).</p>
+<p>Suter, J.F., <strong>Rouhi Rad, M.</strong>, Manning, D.T, Goemans,
+C., <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S0928765518303403">“Groundwater
+depletion, climate, and the value of groundwater conservation.”</a>
+<em>Resource and Energy Economics</em> (2021).</p>
+<p>Lloyd-Smith, P., Adamowicz, W., Entem, A., Fenichel, E.P.,
+<strong>Rouhi Rad, M.</strong>, <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S0167268120304686">“The
+Decade after Tomorrow: Estimation of Discount Rates from Realistic
+Temporal Decisions.”</a> <em>Journal of Economic Behavior and
+Organization</em> (2021).</p>
+<p>Manning, D.T., <strong>Rouhi Rad, M.</strong>, Suter, J.F., Goemans,
+C., <a
+href="https://www.sciencedirect.com/science/article/pii/S0095069620300644">“Non-market
+valuation in integrated modeling: The benefits of water right
+retirement.”</a> <em>Journal of Environmental Economics and
+Management</em> (2020).</p>
+<p><strong>Rouhi Rad, M.</strong>, Araya, A., Zambreski, A., <a
+href="https://link.springer.com/article/10.1007/s00271-020-00688-x">“Downside
+Risk of Aquifer Depletion.”</a> <em>Irrigation Science</em> (2020).</p>
+<p><strong>Rouhi Rad, M.</strong>, Haacker, E.M.K., Sharda, V., Nozari,
+S., Xiang, Z., Araya, A., Uddameri, V., Suter, J.F., Gowda, P., <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419317032">“MOD$$AT:
+A hydro-economic model for aquifer management in agriculture”</a>
+<em>Agricultural Water Management</em> (2020).</p>
+<p><strong>Rouhi Rad, M.</strong>, Brozović, N., Foster, T., and Mieno,
+T., <a
+href="https://www.sciencedirect.com/science/article/pii/S0928765518303816">“Effects
+of instantaneous groundwater availability on irrigated agriculture and
+implications for aquifer management.”</a> <em>Resource and Energy
+Economics</em> (2020).</p>
+<p>Adamowicz, W., Calderon-Etter, L., Entem, L., Fenichel, E.P, Hall,
+J.S., Lloyd-Smith, P., Ogden, F.L., Regina, J.A., <strong>Rouhi Rad,
+M.</strong>, and Stallard, R.F., <a
+href="https://www.pnas.org/content/early/2019/01/04/1802883116">“Assessing
+Ecological Infrastructure Investments.”</a> <em>Proceedings of the
+National Academy of Sciences</em> (2019).</p>
+<p><strong>Rouhi Rad, M.</strong>, Book review: <a
+href="https://ideas.repec.org/a/wsi/wepxxx/v04y2018i03ns2382624x18800024.html">“The
+Water Problem: Climate Change and Water Policy in the United
+States.”</a>. <em>Water Economics and Policy</em>, (2018).</p>
+<p>Hurd, B., &amp; <strong>Rouhi Rad, M.</strong>, <a
+href="https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf">“Estimating
+Economic Effects of Changes in Climate and Water Availability.”</a>
+<em>Climatic Change</em> (2011).</p>
 <hr />
 </div>
 <div id="under-reviewrevise-and-resubmit" class="section level2">
@@ -347,8 +410,11 @@ text-align: justify}
 </div>
 <div id="working-papers-work-in-progress" class="section level2">
 <h2>Working Papers/ Work in Progress:</h2>
-<p><strong>Rouhi Rad, M.</strong>, Suter, J.F., Manning, D.T., Geomans, C. “Abatement subsidies for groundwater conservation.”</p>
-<p>Manning, D.T., <strong>Rouhi Rad, M.</strong>, Ogle, S. “The Private Value of Soil Carbon to Farmers and Implications for Climate Change Policy.”</p>
+<p><strong>Rouhi Rad, M.</strong>, Suter, J.F., Manning, D.T., Geomans,
+C. “Abatement subsidies for groundwater conservation.”</p>
+<p>Manning, D.T., <strong>Rouhi Rad, M.</strong>, Ogle, S. “The Private
+Value of Soil Carbon to Farmers and Implications for Climate Change
+Policy.”</p>
 <hr />
 <!-- ## Work in Progress -->
 </div>

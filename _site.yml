@@ -14,7 +14,7 @@ navbar:
   right:
     - text: "Contact me"
       icon: glyphicon-send
-      href: mailto:mani.rouhiradd@ag.tamu.edu
+      href: mailto:mani.rouhirad@ag.tamu.edu
     - icon: fa-github fa-lg
       href: https://github.com/manirouhirad
     - icon: fa-twitter fa-lg
