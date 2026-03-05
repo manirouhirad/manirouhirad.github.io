@@ -7,30 +7,111 @@ body {
 text-align: justify}
 </style>
 
-
-My research interests can be broken down into four main categories: *resource management policies*, *interactions between biophysical and economic system*, *natural capital*, *economic behavior under common pool resource systems*. 
-I use theoretical, empirical and numerical approaches to study these topics. Although, I have to admit that with the availability of "cool" datasets, I increasingly spend time on reduced form econometric analysis. Being an engineer by training, I am also involved in several interdisciplinary papers. Specifically, I collaborate extensively with civil engineers and hydrologists.  
+My research makes three major contributions to the academic body of knowledge and society. First, my analyses identify opportunities for improved economic incentive-based policies that increase the value society gains from its water resources by improving the effectiveness of water markets and conservation programs. I also apply the same methods for studying other agri-environmental policies. Second, my research contributes to the non-market valuation literature by estimating theoretically rigorous empirical values for water and environmental resources. Third, I using empirical approaches, I study the cost of extreme events.
 
 
-## Resource Management Policies
+## Water Policy
 
-I am very much interested in the policy side of economics. In my research, I seek to estimate the economic impacts of resource depletion and environmental externalities to design cost-effective policies that help reduce externalities, and to analyze the effectiveness of existing policies. For example, in a paper that is ready for submission, my colleagues and I studied the effectiveness of a groundwater market in reallocating groundwater extraction to reduce the externalities it imposes on the nearby streams. In another paper, we study the role of spatial spillovers on the effectiveness of groundwater conservation policies. We find that it is critical to correctly consider the common pool resource nature of an aquifer.
+A large part of my research examines the economics of water — particularly groundwater — and the policies designed to manage it sustainably. This includes studying how farmers respond to physical constraints on extraction, how aquifer depletion affects agricultural and rural economies, and how market-based and regulatory instruments can improve water allocation. A distinctive feature of this work is the development of fully integrated hydro-economic models that couple physical hydrology with economic decision-making, rather than treating them sequentially. I also study water quality, including how salinity and other stressors interact with water scarcity to affect agricultural producers.
+
+*Selected published papers:*
+
+Bahrami, S., **Rouhi Rad, M.**, and Nayga, R.M., ["Dollars for Drops: Abatement Cost of Water for Irrigation in the Colorado River Basin."](https://onlinelibrary.wiley.com/doi/10.1002/aepp.70026) *Applied Economic Perspectives and Policy* (2025).
+
+**Rouhi Rad, M.**, Suter, J.F., Manning, D.T., and Goemans, C., ["Abatement Subsidies for Groundwater Conservation."](https://onlinelibrary.wiley.com/doi/10.1111/ajae.70021) *American Journal of Agricultural Economics* (2025).
+
+Medina, N., **Rouhi Rad, M.**, Nozari, S., Suter, J.F., Bailey, R.T., Sahoo, D., ["Water Scarcity Exacerbates the Negative Effects of Salinity on Irrigated Agriculture."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038504) *Water Resources Research* (2025).
+
+Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, Smith, G.E., Andales, A.A., Zambreski, Z.T., Tavakoli-Kivi, S., Sharda, V., Kisekka, I., Gowda, P., and Schipanski, M.E., ["An Integrated Modeling Approach to Simulate Human-Crop-Groundwater Interactions in Intensively Irrigated Regions."](https://doi.org/10.1016/j.envsoft.2024.106120) *Environmental Modelling & Software* (2024).
+
+**Rouhi Rad, M.**, Mieno, T., & Brozović, N., ["The Role of Search Frictions and Trading Ratios in Tradable Permit Markets."](https://link.springer.com/article/10.1007/s10640-022-00664-3) *Environmental and Resource Economics* (2022).
+
+**Rouhi Rad, M.**, Manning, D.T., Suter, J.F., Goemans, C., ["Policy Leakage or Policy Benefit? Spatial Spillovers from Conservation Policies in Common Property Resources."](https://www.journals.uchicago.edu/doi/10.1086/714148) *Journal of the Association of Environmental and Resource Economists* (2021).
+
+Suter, J.F., **Rouhi Rad, M.**, Manning, D.T., Goemans, C., ["Groundwater depletion, climate, and the value of groundwater conservation."](https://www.sciencedirect.com/science/article/abs/pii/S0928765518303403) *Resource and Energy Economics* (2021).
+
+Mieno, T., **Rouhi Rad, M.**, Suter, J.F., Hrozencik, A., ["The Importance of Well Yield in Groundwater Demand Specifications."](http://le.uwpress.org/content/97/3/672.abstract) *Land Economics* (2021).
+
+Manning, D.T., **Rouhi Rad, M.**, Suter, J.F., Goemans, C., ["Non-market valuation in integrated modeling: The benefits of water right retirement."](https://www.sciencedirect.com/science/article/pii/S0095069620300644) *Journal of Environmental Economics and Management* (2020).
+
+**Rouhi Rad, M.**, Haacker, E.M.K., Sharda, V., Nozari, S., Xiang, Z., Araya, A., Uddameri, V., Suter, J.F., Gowda, P., ["MOD\$\$AT: A hydro-economic model for aquifer management in agriculture."](https://www.sciencedirect.com/science/article/abs/pii/S0378377419317032) *Agricultural Water Management* (2020).
+
+**Rouhi Rad, M.**, Brozović, N., Foster, T., and Mieno, T., ["Effects of instantaneous groundwater availability on irrigated agriculture and implications for aquifer management."](https://www.sciencedirect.com/science/article/pii/S0928765518303816) *Resource and Energy Economics* (2020).
+
+*Working papers:*
+
+Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, et al., "Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation." *Revisions submitted at Water Resources Research*.
+
+Judd, R., **Rouhi Rad, M.**, "Regulating Non-Point Source Pollution: Evidence from the Municipal Separate Storm Sewer System Policy." *Under review*.
+
+Donahue, H., Perez Quesada, G., **Rouhi Rad, M.**, Hrozencik, R.A., Nayga, R.M., "Irrigation Organizations in the Western US: Adapting to Water Scarcity." *Under review*.
 
 ***
 
-## Interactions Between Biophysical and Economic System
+## Agri-Environmental Policy
 
-I am a civil engineer by training and my first exposure to water resources problems was through the lens of engineering and physics. I am still interested in physical aspects of water. As an economist, I try to understand the biophysical factors that are of importance to decision making of producers and consumers. For example, in a paper that is currently under revise and resubmit, we study the importance of limited extraction capacity to extract groundwater from an aquifer on the irrigation decision-making of agricultural producers. In another paper my co-authors and I are studying the importance of a critical hydrological assumption for groundwater management policies: the finitie nature of an aquifer. Currently, I am a postdoc and part of the [OgallaCap](http://ogallalawater.org/) Project. This project allows me to work with many people across the disciplines including hydrology and agronomy.
+My agri-environmental policy research examines how land use decisions, farm management practices, and agricultural institutions affect environmental outcomes. This includes studying the role of land tenure in shaping conservation behavior, the supply of greenhouse gas abatement from agricultural land, the adoption of water-saving irrigation technologies, and the historical legacy of federal land and water development programs. A common thread is identifying the conditions under which private incentives align — or fail to align — with socially desirable environmental outcomes, and the design of policies to close that gap.
+
+*Selected published papers:*
+
+Bahrami, S., **Rouhi Rad, M.**, Nayga, R., ["Land Tenure and Conservation in Agriculture: Evidence from United States Farm-level Data."](https://doi.org/10.1016/j.landusepol.2025.107534) *Land Use Policy* (2025).
+
+Lloyd-Smith, P., Adamowicz, W., Entem, A., Fenichel, E.P., **Rouhi Rad, M.**, ["The Decade after Tomorrow: Estimation of Discount Rates from Realistic Temporal Decisions."](https://www.sciencedirect.com/science/article/abs/pii/S0167268120304686) *Journal of Economic Behavior and Organization* (2021).
+
+
+*Working papers:*
+
+Manning, D.T., **Rouhi Rad, M.**, Ogle, S., "Greenhouse Gas Abatement Supply on Agricultural Land." *Under review*.
+
+Kang, N., **Rouhi Rad, M.**, Nayga, R., Hrozencik, A.R., Perez-Quesada, G., "Impact of the Reclamation Act on Agricultural Development and Population Dynamics in the Western United States." *Revisions requested at American Journal of Agricultural Economics*.
+
+Yang, W., **Rouhi Rad, M.**, Bahrami, S., Hrozencik, A., Nayga, R., "The Value of Improving Canal Conveyance Efficiency." *In preparation*.
 
 ***
 
-## Natural Capital
-I became interested in this topic, i.e. studying natural resources as capital, during my postdoc appointment at Yale. Natural resources are a form of capital and should be viewed as such. This view has important implications for our understanding of resource depletion and for our investments in other forms of capital. For example in a paper that is ready for submission, my colleagues and I studied the complementarity or Substitutability of produced capital and natural capital. In another paper, we focus on the non-market values of groundwater and the value of groundwater as natural capital.
+## Non-Market Valuation and Natural Capital
+
+Natural resources are a form of capital, and this perspective has important implications for how we measure welfare, guide investment, and design conservation policy. My research in this area estimates the value of natural capital — including groundwater, ecosystems, and environmental amenities — using theoretically grounded non-market valuation methods. A unifying theme is that natural and produced capital are often *complements* rather than substitutes, meaning degradation of natural capital cannot simply be offset by investing in infrastructure or technology.
+
+*Selected published papers:*
+
+**Rouhi Rad, M.**, Li, L., Woodward, R.T., ["Non-Market Valuation of Environmental Resources: An Introduction."](https://oxfordre.com/economics/) *Oxford Research Encyclopedia of Economics and Finance* (2025).
+
+Busari, I., Sloggy, M.R., **Rouhi Rad, M.**, Sahoo, D., Drury, S.A., and Escobedo, F.J., ["Modeling Wildfire Effects on Ecosystem Services in two Disparate California Watersheds and Communities."](https://doi.org/10.1007/s00267-025-02185-3) *Environmental Management* (2025).
+
+**Rouhi Rad, M.**, Adamowicz, W., Entem, A., Fenichel, E.P., Lloyd-Smith, P., ["Complementarity (Not Substitution) Between Natural and Produced Capital."](https://www.journals.uchicago.edu/doi/10.1086/714675) *Journal of the Association of Environmental and Resource Economists* (2021).
+
+Adamowicz, W., Calderon-Etter, L., Entem, A., Fenichel, E.P., Hall, J.S., Lloyd-Smith, P., Ogden, F.L., Regina, J.A., **Rouhi Rad, M.**, and Stallard, R.F., ["Assessing Ecological Infrastructure Investments."](https://www.pnas.org/content/early/2019/01/04/1802883116) *Proceedings of the National Academy of Sciences* (2019).
+
+
+*Working papers:*
+
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "The Value of Water Access Security in Agriculture." *Revisions requested at Journal of Environmental Economics and Management*.
+
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Under review*.
+
+
 
 ***
 
-## Common Pool Resources 
-This is an old topic and there is a large body of literature showing the existence and nature of externalities in common pool resources which can result in overexploitation of such resource, e.g. due to lack of well-defined property rights. Access to new forms of datasets has made it possible to test some of these hypotheses. I am interested in studying behavior of producers under common pool resource systems. For example, I would like to focus on discount rates, and investments in extraction capacity under common pool nature of the aquifer. 
+## Extreme Events
 
+Environmental and weather extremes impose large, often poorly understood economic costs on households, communities, and agricultural producers. My research in this area examines how individuals and institutions respond to — and are affected by — extreme events including droughts, heat waves, hurricanes, (and pandemics). This work also addresses how behavioral responses to government interventions (evacuation orders, stay-at-home mandates) and long-run structural forces (rural depopulation, climate change) shape economic outcomes in affected regions.
 
+*Selected published papers:*
 
+Li, L., Hrozencik, A.R., **Rouhi Rad, M.**, Uz, D., ["The Impacts of Depopulation and Climate Change on the Cost of Rural Electric Services."](https://www.sciencedirect.com/science/article/pii/S0095069625001391) *Journal of Environmental Economics and Management* (2025).
+
+Li, L., Long, D., **Rouhi Rad, M.**, Sloggy, M., ["Stay-at-home orders and the willingness to stay home during the COVID-19 pandemic: A stated-preference discrete choice experiment."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253910) *PLOS ONE* (2021).
+
+Sloggy, M., Suter, J.F., **Rouhi Rad, M.**, Manning, D.T., Goemans, C., ["Changing climate, changing minds? The effects of natural disasters on public perceptions of climate change."](https://link.springer.com/article/10.1007/s10584-021-03242-6) *Climatic Change* (2021).
+
+Hurd, B., & **Rouhi Rad, M.**, ["Estimating Economic Effects of Changes in Climate and Water Availability."](https://wordpress.nmsu.edu/bhurd/files/2017/01/J-24-Hurd-and-Rouhi-Rad-2012-Estimating-economic-effects-of-changes-in-climate-and-water-availability-Climatic-Change.pdf) *Climatic Change* (2013).
+
+*Working papers:*
+
+Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Reject and Resubmit*.
+
+Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders." *Reject and Resubmit*.
+
+**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *In preparation*.
