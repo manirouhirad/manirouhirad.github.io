@@ -61,6 +61,8 @@ Natural resources are a form of capital, and this perspective has important impl
 
 **Rouhi Rad, M.**, Li, L., Woodward, R.T., ["Non-Market Valuation of Environmental Resources: An Introduction."](https://oxfordre.com/economics/) *Oxford Research Encyclopedia of Economics and Finance* (2025).
 
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., ["The Value of Water Access Security in Agriculture."](https://www.sciencedirect.com/science/article/pii/S0095069626001051) *Journal of Environmental Economics and Management* (2026).
+
 Busari, I., Sloggy, M.R., **Rouhi Rad, M.**, Sahoo, D., Drury, S.A., and Escobedo, F.J., ["Modeling Wildfire Effects on Ecosystem Services in two Disparate California Watersheds and Communities."](https://doi.org/10.1007/s00267-025-02185-3) *Environmental Management* (2025).
 
 **Rouhi Rad, M.**, Adamowicz, W., Entem, A., Fenichel, E.P., Lloyd-Smith, P., ["Complementarity (Not Substitution) Between Natural and Produced Capital."](https://www.journals.uchicago.edu/doi/10.1086/714675) *Journal of the Association of Environmental and Resource Economists* (2021).
@@ -70,9 +72,7 @@ Adamowicz, W., Calderon-Etter, L., Entem, A., Fenichel, E.P., Hall, J.S., Lloyd-
 
 *Working papers:*
 
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "The Value of Water Access Security in Agriculture." *Revisions submitted at Journal of Environmental Economics and Management*.
-
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Under review*.
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revise and Resubmit at Resource and Energy Economics*.
 
 
 ***
@@ -110,8 +110,8 @@ Hurd, B., & **Rouhi Rad, M.**, ["Estimating Economic Effects of Changes in Clima
 
 *Working papers:*
 
-Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Reject and Resubmit*.
+Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Under review*.
 
 Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders." *Reject and Resubmit*.
 
-**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Under review*.
+**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Revise and Resubmit at Texas Water Journal*.

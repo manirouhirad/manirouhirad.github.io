@@ -10,6 +10,8 @@ text-align: justify}
 
 ## Published/Accepted Papers
 
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., ["The Value of Water Access Security in Agriculture."](https://www.sciencedirect.com/science/article/pii/S0095069626001051) *Journal of Environmental Economics and Management* (2026).
+
 Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, et al., "Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation." *Water Resources Research* (Accepted).
 
 Li, L., Hrozencik, A.R., **Rouhi Rad, M.**, Uz, D., ["The Impacts of Depopulation and Climate Change on the Cost of Rural Electric Services."](https://www.sciencedirect.com/science/article/pii/S0095069625001391) *Journal of Environmental Economics and Management*, 135:103255 (2025).
@@ -66,7 +68,6 @@ Hurd, B., & **Rouhi Rad, M.**, ["Estimating Economic Effects of Changes in Clima
 
 ## Under Review/Revise and Resubmit
 
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "The Value of Water Access Security in Agriculture." *Revisions submitted at Journal of Environmental Economics and Management*.
 
 Judd, R., **Rouhi Rad, M.**, "Regulating Stormwater: Evidence from the Clean Water Act." *Revisions requested at Journal of Public Economics*.
 
@@ -76,13 +77,13 @@ Manning, D.T., **Rouhi Rad, M.**, Ogle, S., "Greenhouse Gas Abatement Supply on 
 
 Donahue, H., Perez Quesada, G., **Rouhi Rad, M.**, Hrozencik, R.A., Nayga, R.M., "Irrigation Organizations in the Western US: Adapting to Water Scarcity." *Revisions requested at Water Economics and Policy*.
 
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Under review*.
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revise and Resubmit at Resource and Energy Economics*.
 
-Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Reject and Resubmit*.
+Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Under review*.
 
 Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders." *Reject and Resubmit*.
 
-**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Under review*.
+**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Revise and Resubmit at Texas Water Journal*.
 
 ***
 
