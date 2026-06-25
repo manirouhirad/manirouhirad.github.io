@@ -20,7 +20,7 @@ Bahrami, S., **Rouhi Rad, M.**, and Nayga, R.M., ["Dollars for Drops: Abatement 
 
 **Rouhi Rad, M.**, Suter, J.F., Manning, D.T., and Goemans, C., ["Abatement Subsidies for Groundwater Conservation."](https://onlinelibrary.wiley.com/doi/10.1111/ajae.70021) *American Journal of Agricultural Economics* (2025).
 
-Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, et al., "Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation." *Water Resources Research* (Accepted).
+Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, Smith, G.E.B., Andales, A.A., Zambreski, Z.T., Lin, X., Suter, J.F., and Schipanski, M.E., ["Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR040427) *Water Resources Research* (2026).
 
 Medina, N., **Rouhi Rad, M.**, Nozari, S., Suter, J.F., Bailey, R.T., Sahoo, D., ["Water Scarcity Exacerbates the Negative Effects of Salinity on Irrigated Agriculture."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038504) *Water Resources Research* (2025).
 
@@ -72,7 +72,7 @@ Adamowicz, W., Calderon-Etter, L., Entem, A., Fenichel, E.P., Hall, J.S., Lloyd-
 
 *Working papers:*
 
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revise and Resubmit at Resource and Energy Economics*.
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revisions Requested at Resource and Energy Economics*.
 
 
 ***
@@ -112,6 +112,6 @@ Hurd, B., & **Rouhi Rad, M.**, ["Estimating Economic Effects of Changes in Clima
 
 Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Under review*.
 
-Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders." *Reject and Resubmit*.
+Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders."
 
-**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Revise and Resubmit at Texas Water Journal*.
+**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Revisions Requested at Texas Water Journal*.

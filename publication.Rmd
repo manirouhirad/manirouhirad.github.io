@@ -12,7 +12,7 @@ text-align: justify}
 
 Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., ["The Value of Water Access Security in Agriculture."](https://www.sciencedirect.com/science/article/pii/S0095069626001051) *Journal of Environmental Economics and Management* (2026).
 
-Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, et al., "Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation." *Water Resources Research* (Accepted).
+Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, Smith, G.E.B., Andales, A.A., Zambreski, Z.T., Lin, X., Suter, J.F., and Schipanski, M.E., ["Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR040427) *Water Resources Research* (2026).
 
 Li, L., Hrozencik, A.R., **Rouhi Rad, M.**, Uz, D., ["The Impacts of Depopulation and Climate Change on the Cost of Rural Electric Services."](https://www.sciencedirect.com/science/article/pii/S0095069625001391) *Journal of Environmental Economics and Management*, 135:103255 (2025).
 
@@ -66,29 +66,30 @@ Hurd, B., & **Rouhi Rad, M.**, ["Estimating Economic Effects of Changes in Clima
 
 ***
 
-## Under Review/Revise and Resubmit
+## Under Review/Revisions Requested
 
 
-Judd, R., **Rouhi Rad, M.**, "Regulating Stormwater: Evidence from the Clean Water Act." *Revisions requested at Journal of Public Economics*.
+Judd, R., **Rouhi Rad, M.**, "Regulating Stormwater: Evidence from the Clean Water Act." *Revisions Requested at Journal of Public Economics*.
 
-Kang, N., **Rouhi Rad, M.**, Nayga, R., Hrozencik, A.R., Perez-Quesada, G., "Impact of the Reclamation Act on Agricultural Development and Population Dynamics in the Western United States." *Revisions requested at American Journal of Agricultural Economics*.
+Kang, N., **Rouhi Rad, M.**, Nayga, R., Hrozencik, A.R., Perez-Quesada, G., "Impact of the Reclamation Act on Agricultural Development and Population Dynamics in the Western United States." *Revisions Requested at American Journal of Agricultural Economics*.
 
-Manning, D.T., **Rouhi Rad, M.**, Ogle, S., "Greenhouse Gas Abatement Supply on Agricultural Land." *Revisions requested at Land Economics*.
+Manning, D.T., **Rouhi Rad, M.**, Ogle, S., "Greenhouse Gas Abatement Supply on Agricultural Land." *Revisions Requested at Land Economics*.
 
-Donahue, H., Perez Quesada, G., **Rouhi Rad, M.**, Hrozencik, R.A., Nayga, R.M., "Irrigation Organizations in the Western US: Adapting to Water Scarcity." *Revisions requested at Water Economics and Policy*.
+Donahue, H., Perez Quesada, G., **Rouhi Rad, M.**, Hrozencik, R.A., Nayga, R.M., "Irrigation Organizations in the Western US: Adapting to Water Scarcity." *Revisions Requested at Water Economics and Policy*.
 
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revise and Resubmit at Resource and Energy Economics*.
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revisions Requested at Resource and Energy Economics*.
+
+**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Revisions Requested at Texas Water Journal*.
 
 Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Under review*.
-
-Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders." *Reject and Resubmit*.
-
-**Rouhi Rad, M.**, Abella-Gutierrez, J., Bahrami, S., Banner, J., Cook, M., Dessler, A., et al., "Economic Costs of the Summer 2023 Heat Wave and Drought on Texas." *Revise and Resubmit at Texas Water Journal*.
 
 ***
 
 ## Working Papers
 
 Yang, W., **Rouhi Rad, M.**, Bahrami, S., Hrozencik, A., Nayga, R., "The Value of Improving Canal Conveyance Efficiency."
+
+Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders."
+
 
 ***
