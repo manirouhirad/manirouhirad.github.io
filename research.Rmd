@@ -20,6 +20,8 @@ Bahrami, S., **Rouhi Rad, M.**, and Nayga, R.M., ["Dollars for Drops: Abatement 
 
 **Rouhi Rad, M.**, Suter, J.F., Manning, D.T., and Goemans, C., ["Abatement Subsidies for Groundwater Conservation."](https://onlinelibrary.wiley.com/doi/10.1111/ajae.70021) *American Journal of Agricultural Economics* (2025).
 
+Balali, H., Ward, F.A., Allen, C.R., Eslamifar, G., **Rouhi Rad, M.**, and Fernald, A., ["Dynamic adaptive capacity of coupled agriculture-water systems under Climate Change: Evidence from the Western United States."](https://doi.org/10.1016/j.agwat.2026.110772) *Agricultural Water Management*, 335, 110772 (2026).
+
 Nozari, S., Bailey, R.T., **Rouhi Rad, M.**, Smith, G.E.B., Andales, A.A., Zambreski, Z.T., Lin, X., Suter, J.F., and Schipanski, M.E., ["Groundwater Management Amidst a Changing Climate: A More Severe Climate Can Decrease the Value of Groundwater Conservation."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR040427) *Water Resources Research* (2026).
 
 Medina, N., **Rouhi Rad, M.**, Nozari, S., Suter, J.F., Bailey, R.T., Sahoo, D., ["Water Scarcity Exacerbates the Negative Effects of Salinity on Irrigated Agriculture."](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038504) *Water Resources Research* (2025).
@@ -46,9 +48,11 @@ Judd, R., **Rouhi Rad, M.**, "Regulating Stormwater: Evidence from the Clean Wat
 
 Donahue, H., Perez Quesada, G., **Rouhi Rad, M.**, Hrozencik, R.A., Nayga, R.M., "Irrigation Organizations in the Western US: Adapting to Water Scarcity." *Revisions requested at Water Economics and Policy*.
 
-Kang, N., **Rouhi Rad, M.**, Nayga, R., Hrozencik, A.R., Perez-Quesada, G., "Impact of the Reclamation Act on Agricultural Development and Population Dynamics in the Western United States." *Revisions requested at American Journal of Agricultural Economics*.
+Kang, N., **Rouhi Rad, M.**, Nayga, R., Hrozencik, A.R., Perez-Quesada, G., "Impact of the Reclamation Act on Agricultural Development and Population Dynamics in the Western United States." *Revisions Submitted at American Journal of Agricultural Economics*.
 
-Yang, W., **Rouhi Rad, M.**, Bahrami, S., Hrozencik, A., Nayga, R., "The Value of Improving Canal Conveyance Efficiency." *In preparation*.
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, A., and Nayga, R.M., "Institutions, Climate Change, and the Heterogeneous Cost of Snowpack Decline." *In preparation*.
+
+Yang, W., **Rouhi Rad, M.**, Bahrami, S., Hrozencik, A., Nayga, R., and Perez-Quesada, G., "The Value of Improving Canal Conveyance Efficiency." *In preparation*.
 
 
 ***
@@ -72,7 +76,7 @@ Adamowicz, W., Calderon-Etter, L., Entem, A., Fenichel, E.P., Hall, J.S., Lloyd-
 
 *Working papers:*
 
-Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revisions Requested at Resource and Energy Economics*.
+Bahrami, S., **Rouhi Rad, M.**, Hrozencik, R.A., Perez Quesada, G., Nayga, R.M., "Well Worth It: Well Capacity and the Cost of Aquifer Depletion for Irrigated Agriculture." *Revisions Submitted at Resource and Energy Economics*.
 
 
 ***
@@ -90,6 +94,8 @@ Lloyd-Smith, P., Adamowicz, W., Entem, A., Fenichel, E.P., **Rouhi Rad, M.**, ["
 *Working papers:*
 
 Manning, D.T., **Rouhi Rad, M.**, Ogle, S., "Greenhouse Gas Abatement Supply on Agricultural Land." *Revisions requested at Land Economics*.
+
+Park, D., **Rouhi Rad, M.**, and Zhang, Y., "Do Foreign Tariffs Reshape Domestic Land Use?" *Under review*.
 
 ***
 
@@ -110,7 +116,7 @@ Hurd, B., & **Rouhi Rad, M.**, ["Estimating Economic Effects of Changes in Clima
 
 *Working papers:*
 
-Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Under review*.
+Uz, D., Hrozencik, A.R., **Rouhi Rad, M.**, Li, L., "Wired for Water: Climate Change and Electricity Use for Irrigation." *Revisions Requested at Journal of the Association of Environmental and Resource Economists*.
 
 Anand, H., **Rouhi Rad, M.**, Shafiee-Jood, M., Alemazkoor, N., "Detecting the Signal: Causal Evidence on the Effectiveness of Hurricane Evacuation Orders."
 
